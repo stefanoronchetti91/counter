@@ -34,15 +34,3 @@ p {
     margin: 55px;
     font-size: 5rem;
 }
-
-button {
-       padding: 55px 15px 15px 15px;
-    font-size: 2rem;
-    border: 1px solid white;
-    border-radius: 10%;
-    
-}
-
-button:hover {
-    background-color: rgba(255, 255, 255, .9)
-}
