@@ -9,7 +9,7 @@ updateCounter();
 
 increaseButton.addEventListener("click", increase);
 decreaseButton.addEventListener("click", decrease);
-resetButton.addEventListener("click", reset)
+resetButton.addEventListener("click", reset);
 
 
 function increase () {
